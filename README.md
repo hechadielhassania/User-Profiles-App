@@ -30,7 +30,7 @@ The User Profiles App is a simple React application that allows users to view pr
 
 ## Author
 
-[Your Name]
+EL Hassania Hechadi `<https://github.com/hechadielhassania/>`
 
 ## License
 
