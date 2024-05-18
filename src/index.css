@@ -1,0 +1,146 @@
+/* App.css */
+/* HomePage.css */
+
+.home-container {
+  margin-top: 50px;
+}
+
+.home-title {
+  font-size: 36px;
+  margin-bottom: 20px;
+}
+
+.home-text {
+  font-size: 18px;
+  margin-bottom: 30px;
+}
+
+/* Navbar Styles */
+.navbar-custom {
+  background-color: #f8f9fa;
+  border: none;
+  border-radius: 10px;
+  box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.navbar-brand-custom {
+  color: #333333; /* Dark text color for brand */
+  font-weight: bold;
+  margin-left: 50px;
+}
+
+.navbar-toggle-custom {
+  border-color: #333333; /* Dark border color for toggle button */
+}
+
+.nav-link-custom {
+  color: #333333; /* Dark text color for links */
+  margin: 0 20px; /* Add margin to create spacing between links */
+}
+
+.nav-link-custom:hover {
+  color: #666666; /* Lighter text color on hover */
+}
+/* Main Content Styles */
+.container {
+  margin-top: 20px;
+}
+/* ProfilePage */
+
+.profile-container {
+  margin-top: 50px;
+}
+
+.profile-card {
+  background-color: #f8f9fa;
+  border: none;
+  border-radius: 10px;
+  box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.profile-card .card-body {
+  padding: 40px;
+}
+
+.profile-card .card-title {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.profile-card .card-subtitle {
+  font-size: 16px;
+  color: #6c757d;
+  margin-bottom: 20px;
+}
+
+.profile-card .card-text {
+  font-size: 18px;
+}
+
+/* ProfilesPage.css */
+
+.profiles-container {
+  margin-top: 50px;
+}
+
+.profile-card {
+  margin-bottom: 30px;
+  border-radius: 10px;
+  box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.profile-card .card-body {
+  padding: 20px;
+}
+
+.profile-card .card-title {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.profile-card .card-subtitle {
+  font-size: 14px;
+  color: #6c757d;
+  margin-bottom: 10px;
+}
+
+.profile-card .card-text {
+  font-size: 16px;
+}
+
+.profile-card .btn-primary {
+  margin-top: 10px;
+}
+
+/* 404Page.css */
+
+.not-found-container {
+  text-align: center;
+  margin-top: 100px;
+}
+
+.not-found-title {
+  font-size: 36px;
+  color: #333333;
+  margin-bottom: 20px;
+}
+
+.not-found-text {
+  font-size: 18px;
+  color: #666666;
+  margin-bottom: 30px;
+}
+
+.btn-primary {
+  background-color: #007bff; /* Blue button color */
+  color: #ffffff; /* White text color */
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  text-decoration: none;
+}
+
+.btn-primary:hover {
+  background-color: #0056b3; /* Darker blue on hover */
+}
