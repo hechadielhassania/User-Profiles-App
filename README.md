@@ -16,7 +16,7 @@ The User Profiles App is a simple React application that allows users to view pr
 
 ## Usage
 
-1. Clone the repository: `git clone <repository-url>`
+1. Clone the repository: `git clone <https://github.com/hechadielhassania/User-Profiles-App>`
 2. Navigate to the project directory: `cd user-profiles-app`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm start`
